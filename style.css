@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+    color: red;
+    margin-top: 10px;
+}
+.heading{
+    width: 90%;
+    font-size: 25px;
+}
+#camera{
+    width: 400px;
+    height: 350px;
+    border: 3px;
+    border-style: groove;
+    border-color: green;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy{
+    color: yellow;
+}
